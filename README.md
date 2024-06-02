@@ -1,3 +1,4 @@
+Simple code for writing lyrics line with time preicision
 Requirements : 
 - pyautogui library
 - keyboard library
