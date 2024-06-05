@@ -1,4 +1,4 @@
-Simple code for writing lyrics line with time preicision
+Simple code for writing lyrics line with time precision
 
 Warning : This is againts ponytown ToS and I am not responsible for anything that might happen 
 THIS SCRIPT IS NOT MALICIOUS AND DOESNT AFFECT CAMEPLAY AT ALL BUT IS STILL TOS.
